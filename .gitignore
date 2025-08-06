@@ -1,0 +1,24 @@
+# Ignore build output directory
+out/
+
+# Ignore CMake-generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ignore compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.pdb
+*.dll
+*.so
+*.a
+
+# Ignore logs, temporary files, editor leftovers
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
