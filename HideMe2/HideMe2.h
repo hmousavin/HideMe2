@@ -14,6 +14,8 @@
 
 #define REG_SHOW_HIDDEN_FILES 1
 #define REG_HIDE_HIDDEN_FILES 2
+#define REG_SHOW_SUPERHIDDEN_FILES 1
+#define REG_HIDE_SUPERHIDDEN_FILES 0
 
 void signalHandler(int signal);
 
