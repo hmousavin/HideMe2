@@ -1,5 +1,6 @@
 # Ignore build output directory
 out/
+.vs/
 
 # Ignore CMake-generated files
 CMakeCache.txt
